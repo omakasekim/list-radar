@@ -1,6 +1,6 @@
 # list-radar
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-22d3ee?style=flat-square)](https://aetherx86.github.io/list-radar/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-22d3ee?style=flat-square)](https://omakasekim.github.io/list-radar/)
 [![Plugin: Chrome MV3](https://img.shields.io/badge/Plugin-Chrome%20MV3-10b981?style=flat-square)](plugin/manifest.json)
 [![License: MIT](https://img.shields.io/badge/License-MIT-38bdf8?style=flat-square)](LICENSE)
 

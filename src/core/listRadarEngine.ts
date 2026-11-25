@@ -34,7 +34,7 @@ export const AWESOME_CATALOG: AwesomeItem[] = [
     lastCommitDays: 2,
     license: 'MIT',
     alive: true,
-    apiEndpoint: 'https://api.github.com/repos/Aetherx86/diffcanvas',
+    apiEndpoint: 'https://api.github.com/repos/omakasekim/diffcanvas',
     mockResponse: { name: 'diffcanvas', visibility: 'public', stargazers_count: 142, default_branch: 'main', topics: ['git', 'diff', 'react'] },
   },
   {
